@@ -1,0 +1,11 @@
+C:\Users\rello\source\repos\Diffie–Hellman\Diffie–Hellman\bin\Debug\netcoreapp2.1\Diffie–Hellman.deps.json
+C:\Users\rello\source\repos\Diffie–Hellman\Diffie–Hellman\bin\Debug\netcoreapp2.1\Diffie–Hellman.runtimeconfig.json
+C:\Users\rello\source\repos\Diffie–Hellman\Diffie–Hellman\bin\Debug\netcoreapp2.1\Diffie–Hellman.runtimeconfig.dev.json
+C:\Users\rello\source\repos\Diffie–Hellman\Diffie–Hellman\bin\Debug\netcoreapp2.1\Diffie–Hellman.dll
+C:\Users\rello\source\repos\Diffie–Hellman\Diffie–Hellman\obj\Debug\netcoreapp2.1\Diffie–Hellman.csprojAssemblyReference.cache
+C:\Users\rello\source\repos\Diffie–Hellman\Diffie–Hellman\obj\Debug\netcoreapp2.1\Diffie–Hellman.csproj.CoreCompileInputs.cache
+C:\Users\rello\source\repos\Diffie–Hellman\Diffie–Hellman\obj\Debug\netcoreapp2.1\Diffie–Hellman.AssemblyInfoInputs.cache
+C:\Users\rello\source\repos\Diffie–Hellman\Diffie–Hellman\obj\Debug\netcoreapp2.1\Diffie–Hellman.AssemblyInfo.cs
+C:\Users\rello\source\repos\Diffie–Hellman\Diffie–Hellman\bin\Debug\netcoreapp2.1\Diffie–Hellman.pdb
+C:\Users\rello\source\repos\Diffie–Hellman\Diffie–Hellman\obj\Debug\netcoreapp2.1\Diffie–Hellman.dll
+C:\Users\rello\source\repos\Diffie–Hellman\Diffie–Hellman\obj\Debug\netcoreapp2.1\Diffie–Hellman.pdb
